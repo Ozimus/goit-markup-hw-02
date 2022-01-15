@@ -1,0 +1,28 @@
+.root {
+  --heder-bg-color: #ffffff;
+  --heder-text-color: #212121;
+  --heder-nav-color: #757575;
+}
+.logo {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  line-height: 1.19;
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
+
+ul {
+  list-style: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #757575;
+}
